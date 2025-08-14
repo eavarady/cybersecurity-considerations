@@ -1,8 +1,9 @@
-# RecommendationSoftwareCodecademy
 # Cybersecurity Considerations
 
 ## Overview
 **Cybersecurity Considerations** is a Python program designed to help users search for cybersecurity tools based on their categories. Users can select a category of cybersecurity tools and retrieve relevant software details, such as pricing, ratings, and vendor information.
+
+Built as a Portfolio Project for Codecademy's Computer Science Career Path Certification.
 
 ## Features
 - **Category Selection**: Users can choose from predefined categories of cybersecurity tools.
